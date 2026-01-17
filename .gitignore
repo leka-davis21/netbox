@@ -31,3 +31,14 @@ netbox.pid
 .coverage
 .vscode
 .python-version
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+go.work.sum
